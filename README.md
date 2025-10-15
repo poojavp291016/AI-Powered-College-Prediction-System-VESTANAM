@@ -1,2 +1,2 @@
 # AI-Powered-College-Prediction-System-VESTANAM
-The system combines machine learning and modern web technologies to create a seamless and intelligent user experience. It leverages predictive analytics to match students with the best possible colleges using real-world admission data.
+The AI-Powered College Prediction System is an intelligent recommendation engine developed under VESTANAM. It leverages advanced machine learning algorithms like LightGBM and XGBoost trained  data points containing college names, percentiles, and categories to accurately predict the top 10 colleges best suited for a student based on their percentile and caste. Delivering real-time predictions through a user-friendly web interface that simplifies the college selection process for students.
